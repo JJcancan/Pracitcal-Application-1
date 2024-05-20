@@ -41,6 +41,7 @@ The group going one or more times a month and are greater than the Age of 25 den
 - go to bars more than once a month and are under the age of 30 *OR*
 - go to cheap restaurants more than 4 times a month and income is less than 50K.
 
+The filter requirements show that the filtered group had a higher acceptance rate than the other group.
 ![image](https://github.com/JJcancan/Practical-Application-1/assets/165223563/60d830fe-f1d4-45c9-9948-995437c528d6)
 
 7.  Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
